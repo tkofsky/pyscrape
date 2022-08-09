@@ -1,0 +1,203 @@
+1347 Property Insurance Holdings, Inc.
+1-800 Flowers.com, Inc.
+360 Residential, LLC
+Access Point Financial, Inc.
+Ackermann Group
+AECOM
+A-Gas (Orb) Limited
+AkzoNobel
+Alcoa Steamship Company, Inc.
+Algoma Steel Inc.
+Allergan, Inc.
+Alpine Associates, LP
+American Fidelity Assurance Co.
+American Railcar Industries, Inc.
+Anixter International Inc.
+Armata Pharmaceuticals, Inc.
+Austin Landing North Ltd.
+Auto Plus Auto Parts
+Axos Bank
+Babcock & Wilcox Company, The
+Ballantyne Strong, Inc.
+BASF Corporation
+Bazarian International Financial Associates
+Belgian Shoes BVBA
+Belltown Power PA, LLC
+BeyondSpring Inc.
+BK Technologies Corporation
+Black Hills Energy
+BMW Financial Services NA, LLC
+Brookfield Properties
+Buckeye Corrugated, Inc.
+Buckeye Power, Inc.
+C3J Therapeutics, Inc.
+Caliper Corporation
+Calmwater Capital LLC
+Capital Brands Holdings, Inc.
+Cardinal Health, Inc.
+Carespring Health Care Management, LLC
+CarMax Auto Superstores, Inc.
+Centene Corporation
+Centre Lane Partners, LLC
+CH Energy Group, Inc.
+CIBC Bank USA
+CincyTech, LLC
+CiOX Health
+Clayton County Board of Commissioners
+Cleveland Foundation, The
+Cleveland Hts.-University Hts. City School Dist.
+CNA-Convatec/Unomedical
+Compass Minerals International, Inc.
+CompuNet Clinical Laboratories
+ConfigAir LLC
+Crowley Maritime Corporation
+Crown Equipment Corporation
+CTL Capital, LLC
+Cuyahoga, County of (Construction)-PMC
+CWA Asset Management Group, LLC
+Davey Tree Expert Company, The
+Delta Air Lines, Inc.
+DHL Supply Chain
+Diamond Hill Funds
+Duke Energy
+DXC Technology
+Eaton Corporation
+EDL Energy, Inc.
+Emerald Creek Capital LLC
+Entravision Communications Corporation
+Envirovac Holdings LLC
+Everstream Solutions LLC
+Exide Technologies
+FCA US LLC
+FedEx Express
+Ferrous Resources Limited
+Fidelity Investments
+Fifth Third Bank
+Fischer-Bush Equipment Rentals, Inc.
+Flaherty & Collins
+Flat Rock Capital Corp.
+Flowserve Corporation
+Ford Motor Company
+Formica Corporation
+Fuyao Glass America, Inc.
+GiroBank, N.V.
+Givaudan Flavors Corp.
+Globe Motors, Inc.
+Gooch & Housego PLC
+Goodyear Tire & Rubber Company, The
+Grand River Navigation Company, Inc.
+Haier US Appliance Solutions, Inc.
+HG Logistics LLC
+Hill-Rom Services 
+Hines Global REIT, Inc. / Murfreesboro
+HOF Village, Inc. - PMC
+Honeywell International, Inc.
+Huntington National Bank, The
+Hyundai Motor America
+Icahn Capital LP
+Ilitch Holdings, Inc.
+Intercept Pharmaceuticals, Inc.
+JHAC Ventures, LLC
+JPMorgan Chase
+KC Hotel Property Owner, LLC - PMC
+Kerry Inc.
+Keystone Shipping Co.
+Kohlberg Kravis Roberts & Co.
+Kohl's Department Stores, Inc.
+Kokosing Construction Co.
+KPMG LLP
+Lexmark International, Inc.
+Lincoln Electric Company, The
+Masco Corporation
+MassMutual
+Medpace, Inc.
+Meritor, Inc.
+Michelman, Inc.
+Millennia Companies, The
+Mission Coal Funding, LLC
+Mission Essential, LLC
+Mitsubishi Caterpillar Forklift America Inc.
+MRK Partners - PMC
+Murphy, John W.
+Myonexus Therapeutics, Inc.
+Nationwide Insurance Co.
+Navidea Biopharmaceuticals, Inc.
+Navios Maritime Holdings Inc.
+NCR Corporation
+News Corporation
+Nimali Power, LLC
+Nordson Corporation
+NorthWestern Energy
+NRG Energy Inc.
+NRP Enterprises-PMC
+Officine Maccaferri Italia S.r.l.
+Ohio National Fund, Inc.
+OpenRoads Wealth Capital, LLC
+Orangewood Partners LLC
+P & S Construction, Inc.
+Pacific Global Asset Management, LLC
+Parker Hannifin Corporation
+Paycor, Inc.
+Penklor Properties, LLC
+Peppertree Capital Management, Inc.
+PharMerica Corporation
+Phillips Edison & Company LLC
+PolyOne Corporation
+PPG Industries, Inc.
+Principal Financial Group
+Prudential Financial - DS
+PVH Corp.
+Rain Bird 
+Richard E. Jacobs Group LLC The 
+Roivant Sciences, Inc.
+Ross Sinclaire & Associates, LLC
+Saas Capital Partners
+ScanTech Holdings, LLC
+SG Blocks, Inc.
+Shandong Linglong Tire Co., Ltd.
+Shenzhen IVPS Technology Co., Ltd. (SMOK)
+SITE Centers Corp
+Sodi, Brian
+Southern Company, The
+Standard Textile Company
+Stanley Black & Decker, Inc.
+STERIS Corporation
+Stewart, William P., Jr.
+Sure Royalty, LLC
+Suttongate Holdings Limited
+Taconic Capital Advisors
+Teradata Corporation
+TFI (The Fertilizer Institute)
+Thoroughbred Holdings LLP
+ThunderCat Technology, LLC
+Tile Shop Holdings, Inc.
+Timken Corporation, The
+Toyota Tsusho America, Inc.
+C:\Users\User\PycharmProjects\tsdr\venv\filter by owner.py
+Tri-County Electric Cooperative, Inc. (TCEC)
+U.S. Bank National Association
+UDG Healthcare plc
+Unified Financial Services Agency Inc.
+Union Bank, N.A.
+UNIPEC America, Inc.
+United Technologies Corporation (UTC)
+UPS
+Vallon Pharmaceuticals, Inc.
+Vapor Technology Association
+Verizon Communications
+Vertical Capital Income Fund
+Veyance Technologies, Inc.
+VICI Properties, Inc.
+Vinyl Chloride Joint Defense Group
+Virpack
+Viskase Companies, Inc.
+Vivial Media LLC
+Voith Group (US)
+Warrensville Heights City School District
+Wells Fargo Bank, N.A.
+Williams Industrial Services Group Inc.
+Windstream Holdings, Inc.
+XpresSpa
+Zodiac Aerospace S.A.
+Zoo Atlanta
+ZURU Inc.
