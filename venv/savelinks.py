@@ -14,7 +14,7 @@ driver = webdriver.Chrome(chrome_options=chrome_options)
 
 # driver = webdriver.Chrome(chrome_options=options, executable_path=r'C:\WebDrivers\ChromeDriver\chromedriver_win32\chromedriver.exe')
 
-#new here 1212122121
+#new here 12121221210000
 xcount = 1
 text_file = open("proseemail.csv", "w", encoding='latin-1', errors='replace')  # out
 with open('prose.csv', encoding='latin-1') as f:  # in
