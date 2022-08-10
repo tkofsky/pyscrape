@@ -11,7 +11,7 @@ from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.pdfinterp import PDFResourceManager
 from pdfminer.pdfpage import PDFPage
 
-
+#rererer
 #####################################################################
 def extract_text_from_pdf(pdf_path):
     resource_manager = PDFResourceManager()
